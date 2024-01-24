@@ -1,2 +1,2 @@
-# mazepress.github.io
-WordPress plugins and themes code vault
+# MazePress
+A custom WordPress plugins and themes code vault
